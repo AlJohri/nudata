@@ -23,3 +23,6 @@
 ## nusaferide
 - https://github.com/AlJohri/nusaferide
 - https://github.com/AlJohri/nusaferide/blob/master/tweets.csv
+
+## nuasgminutes
+- https://github.com/AlJohri/nuasgminutes

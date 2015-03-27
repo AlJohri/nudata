@@ -33,3 +33,6 @@
 
 ## nu-directory-cli
 - https://github.com/AlJohri/nu-directory-cli
+
+## nu-caesar-scraper
+- https://github.com/AlJohri/nu-caesar-scraper

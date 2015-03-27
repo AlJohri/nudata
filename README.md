@@ -3,6 +3,7 @@
 - http://www.adminplan.northwestern.edu/ir/data-book/
 - http://data.cityofevanston.org/home/
 - https://nces.ed.gov/ipeds/
+- http://developer.asg.northwestern.edu/
 
 ## nucrime
 - http://aljohri.github.io/nucrime/
@@ -29,3 +30,6 @@
 
 ## nu-shuttles-kml-extractor
 - https://github.com/AlJohri/nu-shuttles-kml-extractor
+
+## nu-directory-cli
+- https://github.com/AlJohri/nu-directory-cli

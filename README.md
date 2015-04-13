@@ -25,6 +25,10 @@
 - https://github.com/AlJohri/nusaferide
 - https://github.com/AlJohri/nusaferide/blob/master/tweets.csv
 
+## nulaundry
+- http://aljohri.github.io/nulaundry/#/
+- http://github.com/nulaundry
+
 ## nuasgminutes
 - https://github.com/AlJohri/nuasgminutes
 
